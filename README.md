@@ -1,5 +1,11 @@
 # DataLens — CSV Data Analyzer
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://datalens-5426npr7j4qgwmgbzoqk9t.streamlit.app/)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+🚀 **Live Web Application**: [https://datalens-5426npr7j4qgwmgbzoqk9t.streamlit.app/](https://datalens-5426npr7j4qgwmgbzoqk9t.streamlit.app/)
+
 DataLens is a beginner-friendly Python web application built using **Streamlit**. It offers an interactive and simple interface for users to upload any valid CSV file, explore tabular data, inspect comprehensive data quality metrics, visualize distributions, apply robust data cleaning transformations, and download cleaned datasets.
 
 ---
@@ -126,6 +132,11 @@ DataLens is a beginner-friendly Python web application built using **Streamlit**
 
 ## ▶️ Running the Application
 
+### 🌐 Live Demo
+Access the hosted web application anytime at:
+👉 **[https://datalens-5426npr7j4qgwmgbzoqk9t.streamlit.app/](https://datalens-5426npr7j4qgwmgbzoqk9t.streamlit.app/)**
+
+### 💻 Local Execution
 With your virtual environment active, run:
 
 ```powershell
