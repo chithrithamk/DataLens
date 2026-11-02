@@ -1,4 +1,4 @@
-# DataLens — CSV Data Analyzer
+# DataLens - CSV Data Analyzer
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://datalens-5426npr7j4qgwmgbzoqk9t.streamlit.app/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
